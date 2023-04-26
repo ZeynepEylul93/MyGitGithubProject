@@ -13,6 +13,9 @@ public class AtmProject {
         System.out.println("Zeynep branchi kodlarini yazdi");
         //versiyon nsb1
 
+        System.out.println("Bir kisim kodlar");
+        //nsb2
+
 
     }
 
