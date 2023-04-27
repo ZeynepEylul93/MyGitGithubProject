@@ -1,1 +1,2 @@
 degisiklikler
+remote ta kodlar ekliyorum ve commit olusturuyorum
