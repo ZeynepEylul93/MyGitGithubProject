@@ -15,6 +15,8 @@ public class AtmProject {
 
         System.out.println("Bir kisim kodlar");
         //nsb2
+        
+        //remote repoda degisiklik yaptim.
 
 
     }
