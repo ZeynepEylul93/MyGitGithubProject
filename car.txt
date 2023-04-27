@@ -4,5 +4,5 @@ remote ta kodlar ekliyorum ve commit olusturuyorum
 
 
 
-burada cakisma olacak
+burada cakisma olacak diger dev kod yazdi
 
