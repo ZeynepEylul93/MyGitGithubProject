@@ -14,9 +14,10 @@ public class AtmProject {
         //versiyon nsb1
 
         System.out.println("Bir kisim kodlar");
-        //nsb2
-        
-        //remote repoda degisiklik yaptim.
+
+
+        //localde degisiklik yaptim
+
 
 
     }
